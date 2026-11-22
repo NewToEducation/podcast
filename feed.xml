@@ -10,7 +10,7 @@
     <description>Practical guidance for families: how to choose the right tutor, exam prep, homework routines and study skills that work. From New To Education — education has no borders.</description>
     <language>en-us</language>
     <copyright>Copyright 2026 New To Education, LLC</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 02:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:20:11 GMT</lastBuildDate>
     <itunes:author>Cameron Smith</itunes:author>
     <itunes:owner>
       <itunes:name>Cameron Smith</itunes:name>
@@ -25,6 +25,18 @@
       <title>The New To Education Podcast</title>
       <link>https://newtoeducation.com</link>
     </image>
+    <item>
+      <title>Ending the Nightly Homework Battle</title>
+      <description>Danielle and Alex show parents how to end the nightly homework battle with a simple routine: anchor the start time to an event, build in a short reset, make a two-minute plan (quick win first, hardest task second), be nearby without hovering, and close with a packed bag by the door. The New To Education Podcast — education has no borders. Free Tutor-Choice Checklist: https://manage.kmail-lists.com/subscriptions/subscribe?a=VSg5wR&amp;g=RSXDQh — more at https://newtoeducation.com</description>
+      <itunes:summary>Danielle and Alex show parents how to end the nightly homework battle with a simple routine: anchor the start time to an event, build in a short reset, make a two-minute plan (quick win first, hardest task second), be nearby without hovering, and close with a packed bag by the door. The New To Education Podcast — education has no borders.</itunes:summary>
+      <itunes:author>Cameron Smith</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>6:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Sun, 22 Nov 2026 07:20:11 GMT</pubDate>
+      <guid isPermaLink="false">nte-podcast-ep2-ending-the-nightly-homework-battle</guid>
+      <enclosure url="https://newtoeducation.github.io/podcast/episode-2-ending-the-nightly-homework-battle.mp3" length="3091045" type="audio/mpeg"/>
+    </item>
     <item>
       <title>How to Choose the Right Tutor</title>
       <description>Daniel and Alex walk parents through choosing the right tutor: start with the goal, weigh teaching skill and fit, structure sessions consistently, and ask five questions before committing. The New To Education Podcast — education has no borders.</description>
