@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The New To Education Podcast</title>
+    <link>https://newtoeducation.com</link>
+    <atom:link href="https://newtoeducation.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Practical guidance for families: how to choose the right tutor, exam prep, homework routines and study skills that work. From New To Education — education has no borders.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 New To Education, LLC</copyright>
+    <lastBuildDate>Wed, 18 Nov 2026 02:38:38 GMT</lastBuildDate>
+    <itunes:author>Cameron Smith</itunes:author>
+    <itunes:owner>
+      <itunes:name>Cameron Smith</itunes:name>
+      <itunes:email>learninitiate@newtoed.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://newtoeducation.github.io/podcast/cover.jpg"/>
+    <image>
+      <url>https://newtoeducation.github.io/podcast/cover.jpg</url>
+      <title>The New To Education Podcast</title>
+      <link>https://newtoeducation.com</link>
+    </image>
+    <item>
+      <title>How to Choose the Right Tutor</title>
+      <description>Daniel and Alex walk parents through choosing the right tutor: start with the goal, weigh teaching skill and fit, structure sessions consistently, and ask five questions before committing. The New To Education Podcast — education has no borders.</description>
+      <itunes:summary>Daniel and Alex walk parents through choosing the right tutor: start with the goal, weigh teaching skill and fit, structure sessions consistently, and ask five questions before committing. The New To Education Podcast — education has no borders.</itunes:summary>
+      <itunes:author>Cameron Smith</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>7:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <pubDate>Wed, 18 Nov 2026 02:38:38 GMT</pubDate>
+      <guid isPermaLink="false">nte-podcast-ep1-how-to-choose-the-right-tutor</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1510292055490527/0de18bbb-d8e0-416e-92a7-676b491757d3/ep-79a1cc91-e797-4ae3-98c3-ed1450b8c345.mp3" length="3393061" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
